@@ -1,3 +1,5 @@
+// TASK DESCRIPTION: https://oj.vnoi.info/problem/segtree_itlazy
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
